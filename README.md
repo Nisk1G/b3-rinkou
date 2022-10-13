@@ -13,7 +13,8 @@ b3輪講で作成
 サーバーに配置されてるリポジトリ、共有だったりmergeだったりpullだったりできる
 
 ![リポジトリ説明画像](https://backlog.com/ja/git-tutorial/assets/img/intro/intro2_2.png "リポジトリ")
-画像出典[https://backlog.com/ja/git-tutorial/intro/02/](https://backlog.com/ja/git-tutorial/intro/02/)
+
+  画像出典[https://backlog.com/ja/git-tutorial/intro/02/](https://backlog.com/ja/git-tutorial/intro/02/)
 
 * コミット
 
