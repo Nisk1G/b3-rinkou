@@ -49,7 +49,7 @@ pullはfetch+merge
 * マージ  
 
 ブランチからブランチに変更を取り込む  
-merge conflict ←:fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful:
+merge conflict ←:fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::fearful::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage::rage:
 
 * クローン  
 
